@@ -27,7 +27,7 @@ git config --global user.email "[your email]"
 
 ## ROS2 Create Package 
 ```
-ros2 pkg create [package-name] --build-type ament_python --dependencies rcply std_msgs geometry_msgs/msg/Twist
+ros2 pkg create [package-name] --build-type ament_python --dependencies rclpy std_msgs geometry_msgs/msg/Twist
 ```
 
 ## ROS2 Build Package
