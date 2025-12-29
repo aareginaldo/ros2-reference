@@ -1,4 +1,4 @@
-# ros2-reference
+# ROS2 Reference for Humble Hawksbill Distro
 
 ## Clone ROS2 Training Repository 
 ```
