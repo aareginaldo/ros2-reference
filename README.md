@@ -49,7 +49,7 @@ sudo apt-get install ros-humble-ur
 
 ## Install Transform packages
 ```
-sudo apt-get isntall ros-humble-tf-transformations
+sudo apt-get install ros-humble-tf-transformations
 sudo apt-get install ros-humble-tf2-ros
 ```
 
