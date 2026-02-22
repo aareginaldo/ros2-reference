@@ -25,6 +25,12 @@ git config --global user.name "[your name]"
 git config --global user.email "[your email]"
 ```
 
+## Source ROS2 
+```
+source /opt/ros/jazzy/setup.bash
+```
+
+
 ## ROS2 Create Package 
 ```
 ros2 pkg create [package-name] --build-type ament_python --dependencies rclpy std_msgs geometry_msgs/msg/Twist
